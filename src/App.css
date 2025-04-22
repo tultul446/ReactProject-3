@@ -1,0 +1,123 @@
+.vertical-line {
+ width:3px; 
+ height:30px;
+
+}
+
+label .filter-search-label {
+    color:#9A9EA7;
+   line-height:18px;
+   outline:none; 
+}
+
+label .filter-search-select {
+    width:144px;
+    line-height:20px;
+    border:none;
+}
+
+div .search-button{
+  width:120px;
+  height:46px;
+  border-radius:10px;
+  background-color:#7963F0 !important;
+
+
+}
+select .filter-search-box{
+ width:100%;
+ max-with:945px;
+ padding:18px;
+ margin:0 auto;
+ border-radius:8px;
+ box-shadow: 0px 3px 4px 0px rgba(153, 155, 168, 0.15 );
+ }
+
+ .HeadingMargin{
+  margin-top:100px;
+  margin-bottom:60px;
+
+ }
+
+.CardText{
+  color:#9A9EA7;
+}
+.PriceBtn{
+  background:#ffe6ff ! important;
+  color:#7963F0  ! important;
+  border: none ! important;
+}
+
+.BastSeller{
+background:#F5F6F7 ! important;
+color:#9A9EA7 ! important;
+border:none ! important;
+}
+
+.SellingCard{
+ margin-bottom:50px;
+ display:flex ! important;
+}
+
+.textItem{
+  font-size:23px;
+  color:#0D0A19;
+}
+
+
+.priceItem{
+  color:#9A9EA7;
+  font-size:16px;
+}
+
+
+/* review-section start */
+.review-section{
+  padding-top:93px;
+}
+
+.review-card{
+width:361px;
+
+
+}
+
+
+
+
+/* review-section end */
+
+
+/* FindVehicle-section start */
+.FindVehicle-section{
+padding-top:93px;
+max-width:600px;
+}
+
+.find-vehicle-title {
+position:relative;
+width:100%;
+top:39px;
+
+}
+
+.vehicle-img{
+  width:100%;
+ 
+}
+
+
+/* FindVehicle-section start */
+
+/* Footer start */
+  .footer-container{
+padding:27px;
+justify-content:space-evenly;
+align-item:center;
+
+
+  }
+
+
+/* Footer start */
+
